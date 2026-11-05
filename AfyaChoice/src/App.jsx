@@ -6,12 +6,12 @@ import AuthModal from './components/AuthModal';
 import Footer from './components/Footer';
 
 // Pages
-import HomePage from './pages/HomePage';
-import StorePage from './pages/StorePage';
-import BranchesPage from './pages/BranchesPage';
-import AboutPage from './pages/AboutPage';
-import ServicesPage from './pages/ServicesPage';
-import AdminPage from './pages/AdminPage';
+import HomePage from './Pages/HomePage';
+import StorePage from './Pages/StorePage';
+import BranchesPage from './Pages/BranchesPage';
+import AboutPage from './Pages/AboutPage';
+import ServicesPage from './Pages/ServicesPage';
+import AdminPage from './Pages/AdminPage';
 
 import { INITIAL_PRODUCTS, BRANCHES } from './data/feedsData';
 
